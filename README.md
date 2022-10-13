@@ -11,7 +11,3 @@ npm run dev
 npm run server
 - Run the React client only :
 npm run client
-
-
-
-asecnaetc@gmail.com Ryqb2030@ hedha compte gmail
